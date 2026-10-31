@@ -1,0 +1,7 @@
+.env
+node_modules
+dist
+scratch.pdf
+scratch.ts
+*.tmp.ts
+.DS_Store

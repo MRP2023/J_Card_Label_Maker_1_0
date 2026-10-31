@@ -1,0 +1,919 @@
+[
+ {
+  "id": "cl-nw",
+  "name": "CL-NW (square corners, hub circles)",
+  "family": "cl-nw",
+  "verification": "source-vector",
+  "verificationNote": "Geometry copied from the vendor's vector PDF. Dimensions are exactly those of the source file.",
+  "sourceFiles": [
+   "CL-NW-1UP.zip::CL-NW-1UP illustrator.pdf",
+   "CL-NW-12UP.pdf"
+  ],
+  "artboardMm": {
+   "w": 105.8577,
+   "h": 62.1348
+  },
+  "frame": {
+   "w": 95.8928,
+   "h": 46.3522
+  },
+  "frameOrigin": {
+   "x": 4.9989,
+   "y": 6.7402
+  },
+  "cut": {
+   "d": "M2.8589 2.5005H92.8588V43.6527H2.8589Z",
+   "bbox": {
+    "x": 2.8589,
+    "y": 2.5005,
+    "w": 90.0,
+    "h": 41.1522
+   }
+  },
+  "bleed": {
+   "d": "M0.0000 0.0000H95.8927V46.3522H0.0000Z",
+   "bbox": {
+    "x": 0.0,
+    "y": 0.0,
+    "w": 95.8928,
+    "h": 46.3522
+   }
+  },
+  "safety": [
+   {
+    "d": "M68.7688 35.6390C63.4973 35.6390 59.2089 31.3506 59.2089 26.0790C59.2089 20.8078 63.4973 16.5195 68.7688 16.5195C74.0404 16.5195 78.3288 20.8078 78.3288 26.0790C78.3288 31.3506 74.0404 35.6390 68.7688 35.6390Z",
+    "bbox": {
+     "x": 59.2089,
+     "y": 16.5195,
+     "w": 19.1198,
+     "h": 19.1195
+    },
+    "kind": "closed",
+    "dashed": true
+   },
+   {
+    "d": "M26.8823 35.6390C21.6108 35.6390 17.3224 31.3506 17.3224 26.0790C17.3224 20.8078 21.6108 16.5195 26.8823 16.5195C32.1539 16.5195 36.4423 20.8078 36.4423 26.0790C36.4423 31.3506 32.1539 35.6390 26.8823 35.6390Z",
+    "bbox": {
+     "x": 17.3224,
+     "y": 16.5195,
+     "w": 19.1198,
+     "h": 19.1195
+    },
+    "kind": "closed",
+    "dashed": true
+   },
+   {
+    "d": "M5.7511 38.6346L5.7511 31.2485",
+    "bbox": {
+     "x": 5.7511,
+     "y": 31.2485,
+     "w": 0.0,
+     "h": 7.3861
+    },
+    "kind": "line",
+    "dashed": true
+   },
+   {
+    "d": "M5.7511 30.4278L5.7511 6.6280",
+    "bbox": {
+     "x": 5.7511,
+     "y": 6.628,
+     "w": 0.0,
+     "h": 23.7998
+    },
+    "kind": "line",
+    "dashed": true
+   },
+   {
+    "d": "M8.2125 4.7491L14.5265 4.7491",
+    "bbox": {
+     "x": 8.2125,
+     "y": 4.7491,
+     "w": 6.314,
+     "h": 0.0
+    },
+    "kind": "line",
+    "dashed": true
+   },
+   {
+    "d": "M15.2282 4.7491L88.1919 4.7491",
+    "bbox": {
+     "x": 15.2282,
+     "y": 4.7491,
+     "w": 72.9636,
+     "h": 0.0
+    },
+    "kind": "line",
+    "dashed": true
+   },
+   {
+    "d": "M89.9518 7.4488L89.9518 14.8349",
+    "bbox": {
+     "x": 89.9518,
+     "y": 7.4488,
+     "w": 0.0,
+     "h": 7.3861
+    },
+    "kind": "line",
+    "dashed": true
+   },
+   {
+    "d": "M89.9518 15.6556L89.9518 39.4554",
+    "bbox": {
+     "x": 89.9518,
+     "y": 15.6556,
+     "w": 0.0,
+     "h": 23.7998
+    },
+    "kind": "line",
+    "dashed": true
+   },
+   {
+    "d": "M87.4904 41.3343L81.1763 41.3343",
+    "bbox": {
+     "x": 81.1763,
+     "y": 41.3343,
+     "w": 6.314,
+     "h": 0.0
+    },
+    "kind": "line",
+    "dashed": true
+   },
+   {
+    "d": "M80.4746 41.3343L7.5110 41.3343",
+    "bbox": {
+     "x": 7.511,
+     "y": 41.3343,
+     "w": 72.9636,
+     "h": 0.0
+    },
+    "kind": "line",
+    "dashed": true
+   }
+  ],
+  "inner": [
+   {
+    "d": "M76.0188 26.0791C76.0188 30.0832 72.7729 33.3291 68.7689 33.3291C64.7649 33.3291 61.5190 30.0832 61.5190 26.0791C61.5190 22.0751 64.7649 18.8292 68.7689 18.8292C72.7729 18.8292 76.0188 22.0751 76.0188 26.0791Z",
+    "bbox": {
+     "x": 61.519,
+     "y": 18.8292,
+     "w": 14.4999,
+     "h": 14.4999
+    },
+    "id": "inner-1",
+    "kind": "circle",
+    "behavior": "cut-path",
+    "wording": "Both hub circles are red cut paths in the source file. The source gives no further wording."
+   },
+   {
+    "d": "M19.6323 26.0791C19.6323 30.0832 22.8782 33.3291 26.8823 33.3291C30.8863 33.3291 34.1322 30.0832 34.1322 26.0791C34.1322 22.0751 30.8863 18.8292 26.8823 18.8292C22.8782 18.8292 19.6323 22.0751 19.6323 26.0791Z",
+    "bbox": {
+     "x": 19.6323,
+     "y": 18.8292,
+     "w": 14.4999,
+     "h": 14.4999
+    },
+    "id": "inner-2",
+    "kind": "circle",
+    "behavior": "cut-path",
+    "wording": "Both hub circles are red cut paths in the source file. The source gives no further wording."
+   }
+  ],
+  "instructions": [
+   "KEEP TEXT/LOGO WITHIN THE BLUE SAFETY LINES /",
+   "EXTEND ART TO BLACK LINE FOR CUTTING SAFETY"
+  ],
+  "sheet": {
+   "file": "CL-NW-12UP.pdf",
+   "paperMm": {
+    "w": 215.9,
+    "h": 279.4
+   },
+   "slots": [
+    {
+     "x": 13.544,
+     "y": 6.13
+    },
+    {
+     "x": 106.638,
+     "y": 6.151
+    },
+    {
+     "x": 13.544,
+     "y": 50.323
+    },
+    {
+     "x": 106.638,
+     "y": 50.344
+    },
+    {
+     "x": 13.544,
+     "y": 94.516
+    },
+    {
+     "x": 106.638,
+     "y": 94.537
+    },
+    {
+     "x": 13.544,
+     "y": 138.71
+    },
+    {
+     "x": 106.638,
+     "y": 138.73
+    },
+    {
+     "x": 13.544,
+     "y": 182.903
+    },
+    {
+     "x": 106.638,
+     "y": 182.924
+    },
+    {
+     "x": 13.544,
+     "y": 227.096
+    },
+    {
+     "x": 106.638,
+     "y": 227.117
+    }
+   ],
+   "slotCount": 12
+  },
+  "innerBehavior": "cut-path",
+  "innerBehaviorNote": "Both hub circles are red cut paths in the source file. The source gives no further wording."
+ },
+ {
+  "id": "cl-sq",
+  "name": "CL-SQ (rounded rectangle, oval window)",
+  "family": "cl-sq",
+  "verification": "source-vector",
+  "verificationNote": "Geometry copied from the vendor's vector PDF. Dimensions are exactly those of the source file.",
+  "sourceFiles": [
+   "CL-SQ-1UP.zip::CL-SQ-1UP illustrator.pdf",
+   "CL-SQ-12UP.pdf"
+  ],
+  "artboardMm": {
+   "w": 105.8577,
+   "h": 62.1348
+  },
+  "frame": {
+   "w": 93.9384,
+   "h": 44.6641
+  },
+  "frameOrigin": {
+   "x": 5.9073,
+   "y": 7.2027
+  },
+  "cut": {
+   "d": "M90.2171 42.5100L3.7213 42.5100C3.1629 42.5100 2.6912 42.0383 2.6912 41.4799L2.6912 3.2924C2.6912 2.7244 3.1533 2.2623 3.7213 2.2623L90.2171 2.2623C90.7851 2.2623 91.2472 2.7244 91.2472 3.2924L91.2472 41.4799C91.2472 42.0383 90.7756 42.5100 90.2171 42.5100Z",
+   "bbox": {
+    "x": 2.6912,
+    "y": 2.2623,
+    "w": 88.556,
+    "h": 40.2477
+   }
+  },
+  "bleed": {
+   "d": "M0.0000 0.0000H93.9383V44.6641H0.0000Z",
+   "bbox": {
+    "x": 0.0,
+    "y": 0.0,
+    "w": 93.9384,
+    "h": 44.6641
+   }
+  },
+  "safety": [
+   {
+    "d": "M78.7421 35.1612L15.3010 35.1612C14.7034 35.1612 14.1986 34.5664 14.1986 33.8623L14.1986 16.6746C14.1986 15.9733 14.6932 15.4025 15.3010 15.4025L78.7421 15.4025C79.3499 15.4025 79.8442 15.9733 79.8442 16.6746L79.8442 33.8623C79.8442 34.5664 79.3393 35.1612 78.7421 35.1612Z",
+    "bbox": {
+     "x": 14.1986,
+     "y": 15.4025,
+     "w": 65.6456,
+     "h": 19.7587
+    },
+    "kind": "closed",
+    "dashed": true
+   },
+   {
+    "d": "M87.2543 40.5045L6.6840 40.5045C5.9252 40.5045 5.2842 39.4169 5.2842 38.1300L5.2842 6.7084C5.2842 5.4261 5.9122 4.3826 6.6840 4.3826L87.2543 4.3826C88.0261 4.3826 88.6541 5.4261 88.6541 6.7084L88.6541 38.1300C88.6541 39.4169 88.0131 40.5045 87.2543 40.5045Z",
+    "bbox": {
+     "x": 5.2842,
+     "y": 4.3826,
+     "w": 83.3699,
+     "h": 36.122
+    },
+    "kind": "closed",
+    "dashed": true
+   }
+  ],
+  "inner": [
+   {
+    "d": "M76.6145 33.1475L17.3239 33.1475C16.7654 33.1475 16.2937 32.6759 16.2937 32.1174L16.2937 18.4868C16.2937 17.9305 16.7559 17.4778 17.3239 17.4778L76.6145 17.4778C77.1825 17.4778 77.6446 17.9305 77.6446 18.4868L77.6446 32.1174C77.6446 32.6759 77.1730 33.1475 76.6145 33.1475Z",
+    "bbox": {
+     "x": 16.2937,
+     "y": 17.4778,
+     "w": 61.3509,
+     "h": 15.6697
+    },
+    "id": "inner-1",
+    "kind": "oval",
+    "behavior": "cutout",
+    "wording": "Source: 'ADD ART HERE / WE WILL CUT OUT'. The inner oval is a cutout (hole)."
+   }
+  ],
+  "instructions": [
+   "ADD ART HERE / WE WILL CUT OUT",
+   "*KEEP TEXT WITHIN THE BLUE DOTTED LINE / RED KEYLINE IS CUT LINE*",
+   "EXTEND IMAGE TO BLACK FRAME FOR CUTTING SAFETY"
+  ],
+  "sheet": {
+   "file": "CL-SQ-12UP.pdf",
+   "paperMm": {
+    "w": 215.9,
+    "h": 279.4
+   },
+   "slots": [
+    {
+     "x": 15.17,
+     "y": 8.916
+    },
+    {
+     "x": 106.792,
+     "y": 8.916
+    },
+    {
+     "x": 15.17,
+     "y": 52.275
+    },
+    {
+     "x": 106.792,
+     "y": 52.275
+    },
+    {
+     "x": 15.17,
+     "y": 95.634
+    },
+    {
+     "x": 106.792,
+     "y": 95.634
+    },
+    {
+     "x": 15.17,
+     "y": 138.994
+    },
+    {
+     "x": 106.792,
+     "y": 138.994
+    },
+    {
+     "x": 15.17,
+     "y": 182.353
+    },
+    {
+     "x": 106.792,
+     "y": 182.353
+    },
+    {
+     "x": 15.17,
+     "y": 225.712
+    },
+    {
+     "x": 106.792,
+     "y": 225.712
+    }
+   ],
+   "slotCount": 12
+  },
+  "innerBehavior": "cutout",
+  "innerBehaviorNote": "Source: 'ADD ART HERE / WE WILL CUT OUT'. The inner oval is a cutout (hole)."
+ },
+ {
+  "id": "cl-wide",
+  "name": "CL-WIDE (wide, oval window)",
+  "family": "cl-wide",
+  "verification": "source-vector",
+  "verificationNote": "Geometry copied from the vendor's vector PDF. Dimensions are exactly those of the source file.",
+  "sourceFiles": [
+   "CL-WIDE-1UP.zip::CL-WIDE-1UP illustrator.pdf",
+   "CL-WIDE-12UP-2022-06-02.pdf"
+  ],
+  "artboardMm": {
+   "w": 110.0,
+   "h": 62.1348
+  },
+  "frame": {
+   "w": 100.2492,
+   "h": 45.6456
+  },
+  "frameOrigin": {
+   "x": 4.8355,
+   "y": 6.5236
+  },
+  "cut": {
+   "d": "M97.5804 43.0712L97.5804 2.6595C97.5804 2.6595 97.5804 2.4094 97.3303 2.4094L2.9185 2.4094C2.9185 2.4094 2.6687 2.4094 2.6687 2.6595L2.6687 43.0712C2.6687 43.0712 2.6687 43.3214 2.9185 43.3214L97.3303 43.3214C97.3303 43.3214 97.5804 43.3214 97.5804 43.0712Z",
+   "bbox": {
+    "x": 2.6687,
+    "y": 2.4094,
+    "w": 94.9117,
+    "h": 40.912
+   }
+  },
+  "bleed": {
+   "d": "M0.0000 0.0000H100.2492V45.6455H0.0000Z",
+   "bbox": {
+    "x": 0.0,
+    "y": 0.0,
+    "w": 100.2492,
+    "h": 45.6456
+   }
+  },
+  "safety": [
+   {
+    "d": "M82.1064 25.4860C82.1064 30.7879 78.3434 35.0876 73.7008 35.0876L26.6279 35.0876C21.9861 35.0876 18.2226 30.7879 18.2226 25.4860C18.2226 20.1827 21.9861 15.8841 26.6279 15.8841L73.7008 15.8841C78.3434 15.8841 82.1064 20.1827 82.1064 25.4860Z",
+    "bbox": {
+     "x": 18.2226,
+     "y": 15.8841,
+     "w": 63.8838,
+     "h": 19.2035
+    },
+    "kind": "closed",
+    "dashed": true
+   },
+   {
+    "d": "M5.1192 4.7057H95.2631V41.1070H5.1192Z",
+    "bbox": {
+     "x": 5.1192,
+     "y": 4.7057,
+     "w": 90.1439,
+     "h": 36.4014
+    },
+    "kind": "closed",
+    "dashed": true
+   }
+  ],
+  "inner": [
+   {
+    "d": "M79.4292 25.4860C79.4292 29.8678 75.9770 33.4210 71.7175 33.4210L28.5315 33.4210C24.2728 33.4210 20.8202 29.8678 20.8202 25.4860C20.8202 21.1031 24.2728 17.5506 28.5315 17.5506L71.7175 17.5506C75.9770 17.5506 79.4292 21.1031 79.4292 25.4860Z",
+    "bbox": {
+     "x": 20.8202,
+     "y": 17.5506,
+     "w": 58.6091,
+     "h": 15.8704
+    },
+    "id": "inner-1",
+    "kind": "oval",
+    "behavior": "cutout",
+    "wording": "Source: 'ADD oval art here we will cut out'. The inner oval is a cutout (hole)."
+   }
+  ],
+  "instructions": [
+   "CL-WIDE",
+   "ADD oval art here we will cut out",
+   "*KEEP TEXT WITHIN THE BLUE DOTTED LINE / RED KEYLINE IS CUT LINE*",
+   "EXTEND IMAGE TO BLACK FRAME FOR CUTTING SAFETY"
+  ],
+  "sheet": {
+   "file": "CL-WIDE-12UP-2022-06-02.pdf",
+   "paperMm": {
+    "w": 215.9,
+    "h": 279.4
+   },
+   "slots": [
+    {
+     "x": 8.492,
+     "y": 8.624
+    },
+    {
+     "x": 106.485,
+     "y": 8.624
+    },
+    {
+     "x": 8.822,
+     "y": 51.921
+    },
+    {
+     "x": 106.815,
+     "y": 51.921
+    },
+    {
+     "x": 8.822,
+     "y": 95.218
+    },
+    {
+     "x": 106.815,
+     "y": 95.218
+    },
+    {
+     "x": 8.822,
+     "y": 138.515
+    },
+    {
+     "x": 106.815,
+     "y": 138.515
+    },
+    {
+     "x": 8.822,
+     "y": 181.811
+    },
+    {
+     "x": 106.815,
+     "y": 181.811
+    },
+    {
+     "x": 8.822,
+     "y": 225.108
+    },
+    {
+     "x": 106.815,
+     "y": 225.108
+    }
+   ],
+   "slotCount": 12
+  },
+  "innerBehavior": "cutout",
+  "innerBehaviorNote": "Source: 'ADD oval art here we will cut out'. The inner oval is a cutout (hole)."
+ },
+ {
+  "id": "cl4rc-standard-2024",
+  "name": "CL4RC Standard 2024",
+  "family": "cl4rc-standard-2024",
+  "verification": "source-vector",
+  "verificationNote": "Geometry copied from the vendor's vector PDF. Dimensions are exactly those of the source file.",
+  "sourceFiles": [
+   "CL4RC-standard-2024.zip::CL4RC_1-UP label_2024-illustrator.pdf",
+   "CL4RC_12-UP_Template.pdf"
+  ],
+  "artboardMm": {
+   "w": 92.1999,
+   "h": 44.1999
+  },
+  "frame": {
+   "w": 91.8563,
+   "h": 43.9999
+  },
+  "frameOrigin": {
+   "x": 0.1718,
+   "y": 0.1002
+  },
+  "cut": {
+   "d": "M90.3721 40.8896C90.3721 41.7663 89.6616 42.4771 88.7846 42.4771L3.0596 42.4771C2.1830 42.4771 1.4721 41.7663 1.4721 40.8896L1.4721 3.1452C1.4721 2.2682 2.1830 1.5577 3.0596 1.5577L88.7846 1.5577C89.6616 1.5577 90.3721 2.2682 90.3721 3.1452L90.3721 40.8896Z",
+   "bbox": {
+    "x": 1.4721,
+    "y": 1.5577,
+    "w": 88.9,
+    "h": 40.9194
+   }
+  },
+  "bleed": {
+   "d": "M0.0000 0.0000H91.8563V43.9998H0.0000Z",
+   "bbox": {
+    "x": 0.0,
+    "y": 0.0,
+    "w": 91.8563,
+    "h": 43.9999
+   }
+  },
+  "safety": [
+   {
+    "d": "M88.7846 39.6330C88.7846 40.4497 88.0995 41.1122 87.2539 41.1122L4.5903 41.1122C3.7450 41.1122 3.0596 40.4497 3.0596 39.6330L3.0596 4.4678C3.0596 3.6507 3.7450 2.9889 4.5903 2.9889L87.2539 2.9889C88.0995 2.9889 88.7846 3.6507 88.7846 4.4678L88.7846 39.6330Z",
+    "bbox": {
+     "x": 3.0596,
+     "y": 2.9889,
+     "w": 85.725,
+     "h": 38.1233
+    },
+    "kind": "closed",
+    "dashed": true
+   },
+   {
+    "d": "M69.0361 33.9998C73.5954 33.9998 77.2911 29.9626 77.2911 24.9828C77.2911 20.0026 73.5954 15.9658 69.0361 15.9658L22.8078 15.9658C18.2488 15.9658 14.5531 20.0026 14.5531 24.9828C14.5531 29.9626 18.2488 33.9998 22.8078 33.9998L69.0361 33.9998Z",
+    "bbox": {
+     "x": 14.5531,
+     "y": 15.9658,
+     "w": 62.738,
+     "h": 18.034
+    },
+    "kind": "closed",
+    "dashed": true
+   }
+  ],
+  "inner": [
+   {
+    "d": "M68.1471 32.8951C72.5311 32.8951 76.0846 29.3413 76.0846 24.9576C76.0846 20.5737 72.5311 17.0201 68.1471 17.0201L23.6968 17.0201C19.3132 17.0201 15.7596 20.5737 15.7596 24.9576C15.7596 29.3413 19.3132 32.8951 23.6968 32.8951L68.1471 32.8951Z",
+    "bbox": {
+     "x": 15.7596,
+     "y": 17.0201,
+     "w": 60.325,
+     "h": 15.875
+    },
+    "id": "inner-1",
+    "kind": "oval",
+    "behavior": "cover-art",
+    "wording": "Source: 'PLEASE COVER THIS OVAL AREA WITH ART'. The inner oval is an artwork-covered region, not a hole."
+   }
+  ],
+  "instructions": [
+   "KEEP TEXT WITHIN THE 2 BLUE DOTTED LINES",
+   "EXTEND IMAGE TO THE OUTER BLACK BLEED LINE",
+   "PLEASE COVER THIS OVAL AREA WITH ART"
+  ],
+  "sheet": {
+   "file": "CL4RC_12-UP_Template.pdf",
+   "paperMm": {
+    "w": 215.9,
+    "h": 279.4
+   },
+   "slots": [
+    {
+     "x": 15.99,
+     "y": 7.447
+    },
+    {
+     "x": 108.065,
+     "y": 7.447
+    },
+    {
+     "x": 15.99,
+     "y": 51.541
+    },
+    {
+     "x": 108.065,
+     "y": 51.541
+    },
+    {
+     "x": 15.99,
+     "y": 95.635
+    },
+    {
+     "x": 108.065,
+     "y": 95.635
+    },
+    {
+     "x": 15.99,
+     "y": 139.73
+    },
+    {
+     "x": 108.065,
+     "y": 139.73
+    },
+    {
+     "x": 15.99,
+     "y": 183.824
+    },
+    {
+     "x": 108.065,
+     "y": 183.824
+    },
+    {
+     "x": 15.99,
+     "y": 227.919
+    },
+    {
+     "x": 108.065,
+     "y": 227.919
+    }
+   ],
+   "slotCount": 12
+  },
+  "innerBehavior": "cover-art",
+  "innerBehaviorNote": "Source: 'PLEASE COVER THIS OVAL AREA WITH ART'. The inner oval is an artwork-covered region, not a hole."
+ },
+ {
+  "id": "casslabela-roundbottom-2021",
+  "name": "Cassette label, round bottom (2021)",
+  "family": "casslabela-roundbottom-2021",
+  "verification": "source-vector",
+  "verificationNote": "Geometry copied from the vendor's vector PDF. Dimensions are exactly those of the source file.",
+  "sourceFiles": [
+   "casslabela-roundbottom-1up-2021.zip::casslabela-roundbottom-1up-illustrator-2021.pdf"
+  ],
+  "artboardMm": {
+   "w": 101.6,
+   "h": 50.8
+  },
+  "frame": {
+   "w": 92.4362,
+   "h": 44.7767
+  },
+  "frameOrigin": {
+   "x": 4.723,
+   "y": 3.1528
+  },
+  "cut": {
+   "d": "M6.5171 1.6867L85.9196 1.6867L90.6709 6.4492L90.6709 38.3756C90.6709 41.0059 88.5436 43.1381 85.9196 43.1381L6.5171 43.1381C3.8932 43.1381 1.7656 41.0059 1.7656 38.3756L1.7656 6.4492C6.5171 1.6867 1.7656 6.3787 6.5171 1.6867Z",
+   "bbox": {
+    "x": 1.7656,
+    "y": 1.6867,
+    "w": 88.9053,
+    "h": 41.4514
+   }
+  },
+  "bleed": {
+   "d": "M0.0000 0.0000H92.4362V44.7766H0.0000Z",
+   "bbox": {
+    "x": 0.0,
+    "y": 0.0,
+    "w": 92.4362,
+    "h": 44.7767
+   }
+  },
+  "safety": [
+   {
+    "d": "M22.9721 16.2810L69.5991 16.2810C74.3835 16.2810 78.2623 20.4949 78.2623 25.6931C78.2623 30.8916 74.3835 35.1056 69.5991 35.1056L22.9721 35.1056C18.1874 35.1056 14.3090 30.8916 14.3090 25.6931C14.3090 20.4949 18.1874 16.2810 22.9721 16.2810Z",
+    "bbox": {
+     "x": 14.309,
+     "y": 16.281,
+     "w": 63.9533,
+     "h": 18.8246
+    },
+    "kind": "closed",
+    "dashed": true
+   },
+   {
+    "d": "M88.8627 9.3996L88.8627 37.1783C88.8627 39.5980 86.8204 41.5598 84.3009 41.5598L8.0748 41.5598C5.5556 41.5598 3.5134 39.5980 3.5134 37.1783L3.5134 8.8672",
+    "bbox": {
+     "x": 3.5134,
+     "y": 8.8672,
+     "w": 85.3493,
+     "h": 32.6926
+    },
+    "kind": "closed",
+    "dashed": true
+   },
+   {
+    "d": "M4.6582 6.7045C7.2275 4.2266 3.9861 7.2936 8.0748 3.4244L84.3009 3.4244C88.5734 7.5279 84.8432 3.9451 88.0996 7.0731",
+    "bbox": {
+     "x": 4.6582,
+     "y": 3.4244,
+     "w": 83.4415,
+     "h": 3.6488
+    },
+    "kind": "closed",
+    "dashed": true
+   }
+  ],
+  "inner": [
+   {
+    "d": "M24.2918 17.8440L68.2793 17.8440C72.7931 17.8440 76.4521 21.3267 76.4521 25.6228C76.4521 29.9189 72.7931 33.4015 68.2793 33.4015L24.2918 33.4015C19.7780 33.4015 16.1190 29.9189 16.1190 25.6228C16.1190 21.3267 19.7780 17.8440 24.2918 17.8440Z",
+    "bbox": {
+     "x": 16.119,
+     "y": 17.844,
+     "w": 60.3331,
+     "h": 15.5575
+    },
+    "id": "inner-1",
+    "kind": "oval",
+    "behavior": "cover-art",
+    "wording": "Source: 'PLEASE COVER THIS OVAL AREA WITH ART'. The inner oval is an artwork-covered region, not a hole."
+   }
+  ],
+  "instructions": [
+   "PLEASE COVER THIS OVAL AREA WITH ART",
+   "CASSLABELA ROUND BOTTOM ver. 4-1-21",
+   "KEEP TEXT WITHIN THE 2 BLUE DOTTED LINES /EXTEND IMAGE TO THE OUTER BLACK BLEED LINE"
+  ],
+  "sheet": null,
+  "innerBehavior": "cover-art",
+  "innerBehaviorNote": "Source: 'PLEASE COVER THIS OVAL AREA WITH ART'. The inner oval is an artwork-covered region, not a hole."
+ },
+ {
+  "id": "cass-labela-2017",
+  "name": "Cassette label 2017 (12-up source)",
+  "family": "cass-labela-2017",
+  "verification": "source-vector",
+  "verificationNote": "Geometry copied from the vendor's 12-up vector PDF (first slot). The source gives no separate bleed or safety lines, only 'bleed your image past the template lines'.",
+  "sourceFiles": [
+   "cass-labela-12-UP.zip::cass-labela-2017-12up.pdf"
+  ],
+  "artboardMm": null,
+  "frameOrigin": null,
+  "frame": {
+   "w": 88.9054,
+   "h": 41.4514
+  },
+  "cut": {
+   "d": "M4.7515 0.0000L84.1539 0.0000C88.9054 4.7625 84.1539 0.0000 88.9054 4.7625L88.9054 36.6889C88.9054 39.3192 86.7781 41.4514 84.1539 41.4514L4.7515 41.4514C2.1274 41.4514 0.0000 39.3192 0.0000 36.6889L0.0000 4.7625C4.7515 0.0000 0.0000 4.6920 4.7515 0.0000Z",
+   "bbox": {
+    "x": 0.0,
+    "y": 0.0,
+    "w": 88.9054,
+    "h": 41.4514
+   }
+  },
+  "bleed": null,
+  "safety": [],
+  "inner": [
+   {
+    "d": "M22.5261 16.1573L66.5138 16.1573C71.0276 16.1573 74.6865 19.6399 74.6865 23.9360C74.6865 28.2321 71.0276 31.7148 66.5138 31.7148L22.5261 31.7148C18.0124 31.7148 14.3534 28.2321 14.3534 23.9360C14.3534 19.6399 18.0124 16.1573 22.5261 16.1573Z",
+    "bbox": {
+     "x": 14.3534,
+     "y": 16.1573,
+     "w": 60.3331,
+     "h": 15.5574
+    },
+    "id": "inner-1",
+    "kind": "oval",
+    "behavior": "unspecified",
+    "wording": "The source marks the oval but gives no cutting instruction. It is shown as an outline guide only, and artwork covers it."
+   }
+  ],
+  "instructions": [
+   "*PLEASE BLEED YOUR IMAGE PAST THE TEMPLATE LINES SO NO WHITE PAPER WILL SHOW WHEN PEELED*"
+  ],
+  "innerBehavior": "unspecified",
+  "innerBehaviorNote": "The source marks the oval but gives no cutting instruction.",
+  "sheet": {
+   "file": "cass-labela-12-UP.zip::cass-labela-2017-12up.pdf",
+   "paperMm": {
+    "w": 215.9,
+    "h": 279.4
+   },
+   "slots": [
+    {
+     "x": 17.422,
+     "y": 8.466
+    },
+    {
+     "x": 109.284,
+     "y": 8.466
+    },
+    {
+     "x": 17.422,
+     "y": 52.916
+    },
+    {
+     "x": 109.284,
+     "y": 52.916
+    },
+    {
+     "x": 17.422,
+     "y": 97.366
+    },
+    {
+     "x": 109.284,
+     "y": 97.366
+    },
+    {
+     "x": 17.422,
+     "y": 141.816
+    },
+    {
+     "x": 109.284,
+     "y": 141.816
+    },
+    {
+     "x": 17.422,
+     "y": 186.266
+    },
+    {
+     "x": 109.284,
+     "y": 186.266
+    },
+    {
+     "x": 17.422,
+     "y": 230.716
+    },
+    {
+     "x": 109.284,
+     "y": 230.716
+    }
+   ],
+   "slotCount": 12
+  }
+ },
+ {
+  "id": "cl4rc-gloss",
+  "name": "CL4RC Gloss (raster-only source)",
+  "family": "cl4rc-gloss",
+  "verification": "unverified-raster-only",
+  "verificationNote": "The source files contain only a raster image (no vector paths). No outline can be extracted, and it is NOT assumed to match CL4RC Standard.",
+  "sourceFiles": [
+   "CL4RC-gloss.zip::cl4rc-Gloss-1up.pdf",
+   "CL4RC-gloss.zip::cl4rc-Gloss-1up.psd",
+   "CL4RC-gloss.zip::cl4rc-Gloss Rounded corners 12-UP_SheetLabel_Template BLEED.pdf",
+   "CL4RC-gloss.zip::cl4rc_Gloss Rounded corners 12-UP_SheetLabel_Template BLEED.psd"
+  ],
+  "artboardMm": {
+   "w": 92.1173,
+   "h": 44.1113
+  },
+  "frame": null,
+  "frameOrigin": null,
+  "cut": null,
+  "bleed": null,
+  "safety": [],
+  "inner": [],
+  "instructions": [
+   "* INCLUDE ART IN THIS CENTER OVAL*",
+   "*ALSO EXTEND ART TO OUTER RED LINE FOR CUTTING BLEED*"
+  ],
+  "sheet": null,
+  "rasterPixels": {
+   "w": 1088,
+   "h": 521
+  },
+  "rasterDpi": 300
+ }
+]

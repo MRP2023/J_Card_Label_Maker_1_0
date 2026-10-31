@@ -1,0 +1,544 @@
+{
+ "generatedFrom": "template_for_label",
+ "units": "mm",
+ "note": "Every file found in the supplied directory. 'verification' describes the template geometry used by the app.",
+ "files": [
+  {
+   "file": "CL-NW-12UP.pdf",
+   "format": "pdf",
+   "bytes": 396967,
+   "pages": 1,
+   "pageMm": [
+    215.9,
+    279.4
+   ],
+   "producer": "Adobe PDF Library 15.0",
+   "vectorPaths": 1,
+   "embeddedImages": 0,
+   "kind": "vector",
+   "text": []
+  },
+  {
+   "file": "CL-NW-1UP.zip::CL-NW-1UP illustrator.pdf",
+   "format": "pdf",
+   "bytes": 79930,
+   "pages": 1,
+   "pageMm": [
+    105.858,
+    62.135
+   ],
+   "producer": "Adobe PDF library 16.07",
+   "vectorPaths": 18,
+   "embeddedImages": 0,
+   "kind": "vector",
+   "text": [
+    "KEEP TEXT/LOGO WITHIN THE BLUE SAFETY LINES /",
+    "EXTEND ART TO BLACK LINE FOR CUTTING SAFETY"
+   ]
+  },
+  {
+   "file": "CL-NW-1UP.zip::CL-NW-1UP photoshop.psd",
+   "format": "psd",
+   "bytes": 837726,
+   "pixels": [
+    1250,
+    734
+   ],
+   "dpi": 300.0,
+   "mm": [
+    105.83,
+    62.15
+   ],
+   "kind": "raster",
+   "layers": [
+    "ART",
+    "template"
+   ]
+  },
+  {
+   "file": "CL-SQ-12UP.pdf",
+   "format": "pdf",
+   "bytes": 397335,
+   "pages": 1,
+   "pageMm": [
+    215.9,
+    279.4
+   ],
+   "producer": "Adobe PDF Library 15.0",
+   "vectorPaths": 1,
+   "embeddedImages": 0,
+   "kind": "vector",
+   "text": []
+  },
+  {
+   "file": "CL-SQ-1UP.zip::CL-SQ-1UP illustrator.pdf",
+   "format": "pdf",
+   "bytes": 84118,
+   "pages": 1,
+   "pageMm": [
+    105.858,
+    62.135
+   ],
+   "producer": "Adobe PDF library 16.07",
+   "vectorPaths": 5,
+   "embeddedImages": 0,
+   "kind": "vector",
+   "text": [
+    "ADD ART HERE / WE WILL CUT OUT",
+    "*KEEP TEXT WITHIN THE BLUE DOTTED LINE / RED KEYLINE IS CUT LINE*",
+    "EXTEND IMAGE TO BLACK FRAME FOR CUTTING SAFETY"
+   ]
+  },
+  {
+   "file": "CL-SQ-1UP.zip::CL-SQ-1UP photoshop.psd",
+   "format": "psd",
+   "bytes": 864166,
+   "pixels": [
+    1250,
+    734
+   ],
+   "dpi": 300.0,
+   "mm": [
+    105.83,
+    62.15
+   ],
+   "kind": "raster",
+   "layers": [
+    "ART",
+    "TEMPLATE"
+   ]
+  },
+  {
+   "file": "CL-WIDE-12UP-2022-06-02.pdf",
+   "format": "pdf",
+   "bytes": 396161,
+   "pages": 1,
+   "pageMm": [
+    215.9,
+    279.4
+   ],
+   "producer": "Adobe PDF Library 15.0",
+   "vectorPaths": 24,
+   "embeddedImages": 0,
+   "kind": "vector",
+   "text": []
+  },
+  {
+   "file": "CL-WIDE-1UP.zip::CL-WIDE-1UP illustrator.pdf",
+   "format": "pdf",
+   "bytes": 90078,
+   "pages": 1,
+   "pageMm": [
+    110.0,
+    62.135
+   ],
+   "producer": "Adobe PDF library 16.07",
+   "vectorPaths": 5,
+   "embeddedImages": 0,
+   "kind": "vector",
+   "text": [
+    "CL-WIDE",
+    "ADD oval art here we will cut out",
+    "*KEEP TEXT WITHIN THE BLUE DOTTED LINE / RED KEYLINE IS CUT LINE*",
+    "EXTEND IMAGE TO BLACK FRAME FOR CUTTING SAFETY"
+   ]
+  },
+  {
+   "file": "CL-WIDE-1UP.zip::CL-WIDE-1UP photoshop.psd",
+   "format": "psd",
+   "bytes": 883270,
+   "pixels": [
+    1299,
+    734
+   ],
+   "dpi": 300.0,
+   "mm": [
+    109.98,
+    62.15
+   ],
+   "kind": "raster",
+   "layers": [
+    "ART",
+    "Template"
+   ]
+  },
+  {
+   "file": "CL4RC-gloss.zip::cl4rc_Gloss Rounded corners 12-UP_SheetLabel_Template BLEED.psd",
+   "format": "psd",
+   "bytes": 2325755,
+   "pixels": [
+    2550,
+    3300
+   ],
+   "dpi": 300.0,
+   "mm": [
+    215.9,
+    279.4
+   ],
+   "kind": "raster",
+   "layers": [
+    "template",
+    "art"
+   ]
+  },
+  {
+   "file": "CL4RC-gloss.zip::cl4rc-Gloss-1up.psd",
+   "format": "psd",
+   "bytes": 280391,
+   "pixels": [
+    1088,
+    521
+   ],
+   "dpi": 300.0,
+   "mm": [
+    92.12,
+    44.11
+   ],
+   "kind": "raster",
+   "layers": [
+    "ART",
+    "TEMPLATE"
+   ]
+  },
+  {
+   "file": "CL4RC-gloss.zip::cl4rc-Gloss-1up.pdf",
+   "format": "pdf",
+   "bytes": 77532,
+   "pages": 1,
+   "pageMm": [
+    92.117,
+    44.111
+   ],
+   "producer": "Adobe PDF library 15.00",
+   "vectorPaths": 0,
+   "embeddedImages": 1,
+   "kind": "raster",
+   "text": []
+  },
+  {
+   "file": "CL4RC-gloss.zip::cl4rc-Gloss Rounded corners 12-UP_SheetLabel_Template BLEED.pdf",
+   "format": "pdf",
+   "bytes": 288707,
+   "pages": 1,
+   "pageMm": [
+    215.9,
+    279.4
+   ],
+   "producer": "Adobe PDF library 15.00",
+   "vectorPaths": 0,
+   "embeddedImages": 1,
+   "kind": "raster",
+   "text": []
+  },
+  {
+   "file": "CL4RC-standard-2024.zip::CL4RC_1-UP label_2024-illustrator.pdf",
+   "format": "pdf",
+   "bytes": 382341,
+   "pages": 1,
+   "pageMm": [
+    92.2,
+    44.2
+   ],
+   "producer": "Adobe PDF library 17.00",
+   "vectorPaths": 5,
+   "embeddedImages": 0,
+   "kind": "vector",
+   "text": [
+    "KEEP TEXT WITHIN THE 2 BLUE DOTTED LINES",
+    "EXTEND IMAGE TO THE OUTER BLACK BLEED LINE",
+    "PLEASE COVER THIS OVAL AREA WITH ART"
+   ]
+  },
+  {
+   "file": "CL4RC-standard-2024.zip::CL4RC_1-UP label_2024-photoshop.psd",
+   "format": "psd",
+   "bytes": 823696,
+   "pixels": [
+    1089,
+    522
+   ],
+   "dpi": 300.0,
+   "mm": [
+    92.2,
+    44.2
+   ],
+   "kind": "raster",
+   "layers": [
+    "ART",
+    "TEMPLATE"
+   ]
+  },
+  {
+   "file": "CL4RC_12-UP_Template.pdf",
+   "format": "pdf",
+   "bytes": 89797,
+   "pages": 1,
+   "pageMm": [
+    215.9,
+    279.4
+   ],
+   "producer": "Adobe PDF library 15.00",
+   "vectorPaths": 15,
+   "embeddedImages": 0,
+   "kind": "vector",
+   "text": [
+    "TOP"
+   ]
+  },
+  {
+   "file": "cass-labela-12-UP.zip::cass-labela-2017_2550px.png",
+   "format": "png",
+   "bytes": 107547,
+   "pixels": [
+    2550,
+    3306
+   ],
+   "dpi": 300,
+   "kind": "raster",
+   "mm": [
+    215.9,
+    279.91
+   ]
+  },
+  {
+   "file": "cass-labela-12-UP.zip::cass-labela-2017-12up.pdf",
+   "format": "pdf",
+   "bytes": 23438,
+   "pages": 1,
+   "pageMm": [
+    215.9,
+    279.4
+   ],
+   "producer": null,
+   "vectorPaths": 25,
+   "embeddedImages": 0,
+   "kind": "vector",
+   "text": [
+    "*PLEASE BLEED YOUR IMAGE PAST THE TEMPLATE LINES SO NO WHITE PAPER WILL SHOW WHEN PEELED*"
+   ]
+  },
+  {
+   "file": "cass-labela-12-UP.zip::cass-labela-2017-12up.psd",
+   "format": "psd",
+   "bytes": 2313926,
+   "pixels": [
+    2550,
+    3306
+   ],
+   "dpi": 300.0,
+   "mm": [
+    215.9,
+    279.91
+   ],
+   "kind": "raster",
+   "layers": [
+    "Your art",
+    "template"
+   ]
+  },
+  {
+   "file": "casslabela-roundbottom-1up-2021.zip::casslabela-roundbottom-1up-illustrator-2021.pdf",
+   "format": "pdf",
+   "bytes": 101361,
+   "pages": 1,
+   "pageMm": [
+    101.6,
+    50.8
+   ],
+   "producer": "Adobe PDF library 15.00",
+   "vectorPaths": 8,
+   "embeddedImages": 0,
+   "kind": "vector",
+   "text": [
+    "PLEASE COVER THIS OVAL AREA WITH ART",
+    "CASSLABELA ROUND BOTTOM ver. 4-1-21",
+    "KEEP TEXT WITHIN THE 2 BLUE DOTTED LINES /EXTEND IMAGE TO THE OUTER BLACK BLEED LINE"
+   ]
+  },
+  {
+   "file": "casslabela-roundbottom-1up-2021.zip::casslabela-roundbottom-1up-photoshop-2021.psd",
+   "format": "psd",
+   "bytes": 280544,
+   "pixels": [
+    1200,
+    600
+   ],
+   "dpi": 300.0,
+   "mm": [
+    101.6,
+    50.8
+   ],
+   "kind": "raster",
+   "layers": [
+    "ART",
+    "Template"
+   ]
+  }
+ ],
+ "templates": [
+  {
+   "id": "cl-nw",
+   "name": "CL-NW (square corners, hub circles)",
+   "verification": "source-vector",
+   "verificationNote": "Geometry copied from the vendor's vector PDF. Dimensions are exactly those of the source file.",
+   "sourceFiles": [
+    "CL-NW-1UP.zip::CL-NW-1UP illustrator.pdf",
+    "CL-NW-12UP.pdf"
+   ],
+   "artboardMm": {
+    "w": 105.8577,
+    "h": 62.1348
+   },
+   "cutMm": {
+    "x": 2.8589,
+    "y": 2.5005,
+    "w": 90.0,
+    "h": 41.1522
+   },
+   "frameMm": {
+    "w": 95.8928,
+    "h": 46.3522
+   },
+   "sheetSlots": 12
+  },
+  {
+   "id": "cl-sq",
+   "name": "CL-SQ (rounded rectangle, oval window)",
+   "verification": "source-vector",
+   "verificationNote": "Geometry copied from the vendor's vector PDF. Dimensions are exactly those of the source file.",
+   "sourceFiles": [
+    "CL-SQ-1UP.zip::CL-SQ-1UP illustrator.pdf",
+    "CL-SQ-12UP.pdf"
+   ],
+   "artboardMm": {
+    "w": 105.8577,
+    "h": 62.1348
+   },
+   "cutMm": {
+    "x": 2.6912,
+    "y": 2.2623,
+    "w": 88.556,
+    "h": 40.2477
+   },
+   "frameMm": {
+    "w": 93.9384,
+    "h": 44.6641
+   },
+   "sheetSlots": 12
+  },
+  {
+   "id": "cl-wide",
+   "name": "CL-WIDE (wide, oval window)",
+   "verification": "source-vector",
+   "verificationNote": "Geometry copied from the vendor's vector PDF. Dimensions are exactly those of the source file.",
+   "sourceFiles": [
+    "CL-WIDE-1UP.zip::CL-WIDE-1UP illustrator.pdf",
+    "CL-WIDE-12UP-2022-06-02.pdf"
+   ],
+   "artboardMm": {
+    "w": 110.0,
+    "h": 62.1348
+   },
+   "cutMm": {
+    "x": 2.6687,
+    "y": 2.4094,
+    "w": 94.9117,
+    "h": 40.912
+   },
+   "frameMm": {
+    "w": 100.2492,
+    "h": 45.6456
+   },
+   "sheetSlots": 12
+  },
+  {
+   "id": "cl4rc-standard-2024",
+   "name": "CL4RC Standard 2024",
+   "verification": "source-vector",
+   "verificationNote": "Geometry copied from the vendor's vector PDF. Dimensions are exactly those of the source file.",
+   "sourceFiles": [
+    "CL4RC-standard-2024.zip::CL4RC_1-UP label_2024-illustrator.pdf",
+    "CL4RC_12-UP_Template.pdf"
+   ],
+   "artboardMm": {
+    "w": 92.1999,
+    "h": 44.1999
+   },
+   "cutMm": {
+    "x": 1.4721,
+    "y": 1.5577,
+    "w": 88.9,
+    "h": 40.9194
+   },
+   "frameMm": {
+    "w": 91.8563,
+    "h": 43.9999
+   },
+   "sheetSlots": 12
+  },
+  {
+   "id": "casslabela-roundbottom-2021",
+   "name": "Cassette label, round bottom (2021)",
+   "verification": "source-vector",
+   "verificationNote": "Geometry copied from the vendor's vector PDF. Dimensions are exactly those of the source file.",
+   "sourceFiles": [
+    "casslabela-roundbottom-1up-2021.zip::casslabela-roundbottom-1up-illustrator-2021.pdf"
+   ],
+   "artboardMm": {
+    "w": 101.6,
+    "h": 50.8
+   },
+   "cutMm": {
+    "x": 1.7656,
+    "y": 1.6867,
+    "w": 88.9053,
+    "h": 41.4514
+   },
+   "frameMm": {
+    "w": 92.4362,
+    "h": 44.7767
+   },
+   "sheetSlots": 0
+  },
+  {
+   "id": "cass-labela-2017",
+   "name": "Cassette label 2017 (12-up source)",
+   "verification": "source-vector",
+   "verificationNote": "Geometry copied from the vendor's 12-up vector PDF (first slot). The source gives no separate bleed or safety lines, only 'bleed your image past the template lines'.",
+   "sourceFiles": [
+    "cass-labela-12-UP.zip::cass-labela-2017-12up.pdf"
+   ],
+   "artboardMm": null,
+   "cutMm": {
+    "x": 0.0,
+    "y": 0.0,
+    "w": 88.9054,
+    "h": 41.4514
+   },
+   "frameMm": {
+    "w": 88.9054,
+    "h": 41.4514
+   },
+   "sheetSlots": 12
+  },
+  {
+   "id": "cl4rc-gloss",
+   "name": "CL4RC Gloss (raster-only source)",
+   "verification": "unverified-raster-only",
+   "verificationNote": "The source files contain only a raster image (no vector paths). No outline can be extracted, and it is NOT assumed to match CL4RC Standard.",
+   "sourceFiles": [
+    "CL4RC-gloss.zip::cl4rc-Gloss-1up.pdf",
+    "CL4RC-gloss.zip::cl4rc-Gloss-1up.psd",
+    "CL4RC-gloss.zip::cl4rc-Gloss Rounded corners 12-UP_SheetLabel_Template BLEED.pdf",
+    "CL4RC-gloss.zip::cl4rc_Gloss Rounded corners 12-UP_SheetLabel_Template BLEED.psd"
+   ],
+   "artboardMm": {
+    "w": 92.1173,
+    "h": 44.1113
+   },
+   "cutMm": null,
+   "frameMm": null,
+   "sheetSlots": 0
+  }
+ ]
+}
